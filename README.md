@@ -1,2 +1,2 @@
 # Connectivity_YCT_2022
- IBM input files and other materials for stream connectivity SES study
+ Input files, outputs, and R scripts for running YCT connectivity simulations in CDMetaPOP. Full-resolution mental models constructed by Teton Valley stakeholders.
